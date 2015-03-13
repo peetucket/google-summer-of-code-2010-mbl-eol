@@ -1,0 +1,1 @@
+A project for Google Summer of Code students working on Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project.
